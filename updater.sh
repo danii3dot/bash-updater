@@ -23,9 +23,9 @@
 # separated by space.
 ##
 
-YDNS_USER="user@host.xx"
-YDNS_PASSWD="secret"
-YDNS_HOST="myhost.ydns.eu"
+YDNS_USER="skullazenuh@gmail.com"
+YDNS_PASSWD="skullaz1997"
+YDNS_HOST="googl.ydns.eu"
 YDNS_LASTIP_FILE="/tmp/ydns_last_ip_$YDNS_HOST"
 
 ##
